@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MetodosDeComposicion.iml" filepath="$PROJECT_DIR$/MetodosDeComposicion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RefactorizaciónSegundaParte.iml" filepath="$PROJECT_DIR$/RefactorizaciónSegundaParte.iml" />
     </modules>
   </component>
 </project>
